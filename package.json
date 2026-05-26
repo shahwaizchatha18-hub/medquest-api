@@ -1,0 +1,15 @@
+{
+  "name": "medquest-api",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "@anthropic-ai/sdk": "^0.33.0",
+    "@vercel/kv": "^3.0.0",
+    "zod": "^3.23.8"
+  }
+}
